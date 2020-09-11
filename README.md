@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am passionate about digging out insights from data and recently received a master's degree in Data Science.
+
 <!--
 **franklu2014/franklu2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
