@@ -10,10 +10,8 @@ I like Data Science, Machine Learning, Software Engineering and enjoy digging ou
   - [Movie Database using PostgreSQL](https://github.com/franklu2014/coding_practice/blob/master/local_imdb_setup.ipynb): expanded the learning of PostgreSQL by setting up a local movies database and pgAdmin client.
   - [Vancouver Crime Map](https://github.com/franklu2014/vancouver-crime-stats): built and ran a web app on Heroku for geospatial and seasonal visualizations of crime patterns in Vancouver neighbourhoods
   
-You can also view my LinkedIn profile by clicking below:
-<p align='left'>
-<a href="https://www.linkedin.com/in/franklu-2019/"><img height="30" src="https://github.com/franklu2014/franklu2014/blob/master/icons/Linkedin_icon.svg?raw=true"></a>
-</p>
+You can also view my LinkedIn profile here: <a href="https://www.linkedin.com/in/franklu-2019/"><img height="30" src="https://github.com/franklu2014/franklu2014/blob/master/icons/Linkedin_icon.svg?raw=true"></a>
+
 
 <!--
 **franklu2014/franklu2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
