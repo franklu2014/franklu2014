@@ -4,7 +4,7 @@ I like Data Science, Machine Learning, Software Engineering and enjoy digging ou
 
 - Projects I am working on:
   - [Data Science using Airflow Pipeline](https://github.com/franklu2014/data_science_with_airflow): an attempt to analyze and model the relationship between Tweeter posting and weather signals across Lower Mainland BC
-  - Looking for an organization where I can put my skills to good use
+  - _Looking for an organization where I can put my skills to good use_
   
 - Projects I have worked on:
   - [Movie Database using PostgreSQL](https://github.com/franklu2014/coding_practice/blob/master/local_imdb_setup.ipynb): expanded the learning of PostgreSQL by setting up a local movies database and pgAdmin client.
