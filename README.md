@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Frank Lu 👋.  I like Data Science, Machine Learning, and Software Engineering.
 
-I am passionate about digging out insights from data and recently received a master's degree in Data Science.
+I am passionate about digging out insights from data and building efficient data pipelines.
 
 <!--
 **franklu2014/franklu2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
