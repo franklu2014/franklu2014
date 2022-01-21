@@ -3,6 +3,7 @@
 I like Data Science, Machine Learning, Software Engineering and enjoy building end-to-end data services that deliver useful insights.
 
 - Projects for fun:
+  - [Domain-specific BERT for QA](https://huggingface.co/franklu/pubmed_bert_squadv2): finetuning a pre-trained BERT for question-answering in medical domain
   - [Rock sample analysis with neural network](https://github.com/franklu2014/core_sample_analysis/blob/main/core_sample.ipynb): clustering of rock sample images using neural network models and K-Means
   - [Movie Database using PostgreSQL](https://github.com/franklu2014/coding_practice/blob/master/local_imdb_setup.ipynb): expanded the learning of PostgreSQL by setting up a local movies database and pgAdmin client.
   - [Vancouver Crime Map](https://github.com/franklu2014/vancouver-crime-stats): an interactive web app on Heroku for geospatial and seasonal visualizations of crime patterns in Vancouver neighbourhoods
