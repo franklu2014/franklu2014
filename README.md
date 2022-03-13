@@ -10,7 +10,6 @@ I like Data Science, Machine Learning, Software Engineering and enjoy building e
 
 - Projects I am working on:
   - [Data Science using Airflow Pipeline](https://github.com/franklu2014/data_science_with_airflow): an attempt to analyze and model the relationship between Tweeter posting and weather signals across Lower Mainland BC
-  - _Looking for an organization where I can put my skills to good use_
   
 You can also view my LinkedIn profile here: <a href="https://www.linkedin.com/in/franklu-2019/"><img height="30" src="https://github.com/franklu2014/franklu2014/blob/master/icons/Linkedin_icon.svg?raw=true"></a>
 
